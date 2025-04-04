@@ -17,11 +17,15 @@ The first player to reach or cross the final position wins.
 How to Run the Game
 
 1 Clone the Repository
+
 git clone https://github.com/JyothiNallabilli/SnakeAndLaddersGame.git
+
 cd SnakeAndLaddersGame
 
 2 Compile and Run
+
 javac -d out src/*.java
+
 java -cp out Main
 
 🗂️ Project Structure
