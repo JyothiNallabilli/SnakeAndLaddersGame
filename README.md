@@ -20,7 +20,7 @@ How to Run the Game
 git clone https://github.com/JyothiNallabilli/SnakeAndLaddersGame.git
 cd SnakeAndLaddersGame
 
-2️ Compile and Run
+2 Compile and Run
 javac -d out src/*.java
 java -cp out Main
 
