@@ -45,9 +45,3 @@ SnakeAndLaddersGame/
 🖥️ GUI version
 🔄 Save and Load Game State
 🎮 Multiplayer online mode
-
-📩 Contributions
-Feel free to fork the repo and submit pull requests!
-
-📜 License
-This project is MIT Licensed – you are free to use and modify it.
